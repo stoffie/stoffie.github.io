@@ -1,0 +1,25 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "github-style"
+
+[params]
+  author = "Damiano Stoffie"
+  description = "Hello World."
+  github = "stoffie"
+  linkedin = "MeiK2333"
+  email = "damstoffie@gmail.com"
+  url = "https://stoffie.github.com"
+  keywords = "blog, blockchain, google analytics"
+  rss = false
+  lastmod = false
+  favicon = "/images/github.png"
+  location = "Italy"
+
+  [[params.links]]
+    title = "Link"
+    href = "#"
+  [[params.links]]
+    title = "Link2"
+    href = "https://meik2333.com"
+    icon = "/images/avatar.png"
