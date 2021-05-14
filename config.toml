@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://stoffie.github.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "github-style"
@@ -15,11 +15,3 @@ theme = "github-style"
   lastmod = false
   favicon = "/images/github.png"
   location = "Italy"
-
-  [[params.links]]
-    title = "Link"
-    href = "#"
-  [[params.links]]
-    title = "Link2"
-    href = "https://meik2333.com"
-    icon = "/images/avatar.png"
