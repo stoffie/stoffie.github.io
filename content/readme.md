@@ -1,1 +1,1 @@
-`Hello World!`
+I have just finished my apprenticeship at CherryChain and I am looking for work!

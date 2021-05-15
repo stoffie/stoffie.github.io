@@ -1,17 +1,17 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "stoffie.github.io"
 theme = "github-style"
 
 [params]
   author = "Damiano Stoffie"
-  description = "Hello World."
+  description = "Hello World!"
   github = "stoffie"
   linkedin = "MeiK2333"
   email = "damstoffie@gmail.com"
   url = "https://stoffie.github.com"
-  keywords = "blog, blockchain, google analytics"
+  keywords = "blog, blockchain"
   rss = false
   lastmod = false
   favicon = "/images/github.png"
-  location = "Italy"
+  location = "Italy. Pergine Valsugana TN"
