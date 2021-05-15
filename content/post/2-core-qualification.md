@@ -8,5 +8,5 @@ draft: false
 - Excellent communication and presentation skills.
 - Dedicated team player.
 - Reliable front-end and Android developer.
-- Expert on CRUD, REST, MVC.
+- Enthusiast Cloud and Backend developer.
 - Able to create architecture designs that make sense.
