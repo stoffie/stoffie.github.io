@@ -5,7 +5,7 @@ draft: false
 ---
 
 - Expert on CRUD, REST, MVC.
-- Reliable front-end developer.
+- Reliable front-end and Android developer.
 - Exceptional Agile skills in any situation.
 - Excellent communication and presentation skills.
 - Dedicated team player.
