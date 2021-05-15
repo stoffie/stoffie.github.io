@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://stoffie.github.io/"
 languageCode = "en-us"
 title = "stoffie.github.io"
 theme = "github-style"
