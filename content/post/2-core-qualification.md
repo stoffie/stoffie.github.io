@@ -2,6 +2,7 @@
 title: "Core Qualifications"
 date: 2021-05-14T00:00:00+01:00
 draft: false
+pin: true
 ---
 
 - Exceptional Agile skills in any situation.
