@@ -1,1 +1,1 @@
-I have just finished my apprenticeship at CherryChain and I am looking for work!
+I'm interviewing and looking for my dream job. I'm available and confident for any remote position that is either Frontend, Backend, Fullstack or DevOps. 
