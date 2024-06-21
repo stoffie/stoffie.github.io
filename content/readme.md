@@ -68,5 +68,5 @@ I worked within an experienced Agile team, often being praised for my Linux CLI 
 
 ## Languages
 
-- **English**: Proficient in written and spoken use C1 auto assesment
+- **English**: Proficient in written and spoken use C1 Auto Assesment
 - **Italian**: Native speaker
