@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-04-15T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/1-professional-summary/</loc>
+    <lastmod>2024-04-15T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-04-15T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2-core-qualification/</loc>
+    <lastmod>2024-04-14T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/3-experience/</loc>
+    <lastmod>2024-04-13T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/4-education/</loc>
+    <lastmod>2024-04-12T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/5-languages/</loc>
+    <lastmod>2024-04-11T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/6-skills/</loc>
+    <lastmod>2024-04-11T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/readme/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
